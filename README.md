@@ -43,13 +43,8 @@ To get a local copy of the project up and running, follow these steps:
    git clone https://github.com/Yashaswini200/ecommerce.git
    ```
 
-2. Navigate to the project directory:
 
-   ```sh
-   cd ecommerce
-   ```
-
-3. Open the `index.html` file in your preferred web browser:
+2. Open the `index.html` file in your preferred web browser:
 
    You can open the file directly in your browser or use a live server extension in your code editor for a better development experience.
 
